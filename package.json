@@ -1,0 +1,25 @@
+{
+  "name": "hairday",
+  "version": "0.0.1",
+  "description": "Projeto para agendamento de barbearia",
+  "license": "MIT",
+  "author": "Joao Paulo Pires",
+  "scripts": {
+    "server": "json-server --watch server.json --port 3333",
+    "dev": "webpack server",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^7.1.4",
+    "dayjs": "^1.11.20",
+    "html-webpack-plugin": "^5.6.7",
+    "json-server": "^1.0.0-beta.15",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.106.2",
+    "webpack-dev-server": "^5.2.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^7.0.2"
+  }
+}

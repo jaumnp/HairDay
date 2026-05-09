@@ -1,0 +1,35 @@
+{
+  "schedules": [
+    {
+      "id": "HvLdH0EVqhs",
+      "name": "Pablo",
+      "when": "2026-05-14T19:00:00.000Z"
+    },
+    {
+      "id": "_fWEYFib1Ko",
+      "name": "Fernando",
+      "when": "2026-05-09T17:00:00.000Z"
+    },
+    {
+      "id": "oBRBbFXm47I",
+      "name": "Fernando",
+      "when": "2026-05-10T12:00:00.000Z"
+    },
+    {
+      "id": "PKIUMfxF_oQ",
+      "name": "Joao",
+      "when": "2026-05-09T12:00:00.000Z"
+    },
+    {
+      "id": "SmLtFN2qu3s",
+      "name": "joao",
+      "when": "2026-05-09T20:00:00.000Z"
+    },
+    {
+      "id": "3DVBVI5BWYQ",
+      "name": "awdawd",
+      "when": "2026-05-10T00:00:00.000Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
